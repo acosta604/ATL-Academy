@@ -1,0 +1,48 @@
+{
+    "nombre_equipo":"Mind Units",
+    "numero_de_equipo":1,
+    "Curso":"Curso de programación en java",
+    "Academia":"ATL Academy",
+    "participantes":[
+       {
+          "nombre":"Gaspar",
+          "discord":"gaspi#4272",
+          "pais":"Argentina"
+       },
+       {
+          "nombre":"Ezequiel",
+          "discord":"ezemat#0450",
+          "pais":"Argentina"
+       },
+       {
+          "nombre":"Esteban",
+          "discord":"esteban#5051",
+          "pais":"Argentina"
+       },
+       {
+          "name":"Lucas",
+          "discord":"Lucas Ariel Rotta#9223",
+          "pais":"Argentina"
+       },
+       {
+          "nombre":"Juliana",
+          "discord":"KatherineV#1169",
+          "pais":"Colombia"
+       },
+       {
+          "name":"Sharon",
+          "discord":"SharonVieira#3663",
+          "pais":"Colombia"
+       },
+       {
+          "nombre":"Jader",
+          "discord":"Jader#0789",
+          "pais":"Colombia"
+       },
+       {
+          "nombre":"Paula",
+          "discord":"paulaacosta604#2624",
+          "pais":"Colombia"
+       }
+    ]
+ }

@@ -1,0 +1,48 @@
+[
+  {
+    "category": "Gastronomía",
+    "question": "¿Cuál es el ingrediente principal de la paella española?",
+    "options": ["Arroz", "Pasta", "Patatas (papas)"],
+    "answer": 0,
+    "explanation": "El ingrediente principal de la paella española es el arroz, que se combina con otros ingredientes como mariscos, carne o verduras."
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Cuál es el sistema operativo desarrollado por Apple para sus dispositivos móviles?",
+    "options": ["iOS", "Android", "Windows"],
+    "answer": 0,
+    "explanation": "El sistema operativo desarrollado por Apple para sus dispositivos móviles, como el iPhone y el iPad, se llama iOS."
+  },
+  {
+    "category": "Moda",
+    "question": "¿Cuál es una de las principales capitales de la moda a nivel mundial?",
+    "options": ["París", "Londres", "Tokio"],
+    "answer": 0,
+    "explanation": "París es considerada una de las principales capitales de la moda, conocida por sus famosas semanas de la moda y su influencia en el diseño y las tendencias."
+  },
+  {
+    "category": "Viajes",
+    "question": "¿Cuál es la maravilla del mundo antiguo ubicada en Egipto?",
+    "options": [ "El Coliseo de Roma","Las pirámides de Giza", "El Taj Mahal en India"],
+    "answer": 1,
+    "explanation": "Las pirámides de Giza, en Egipto, son una de las maravillas del mundo antiguo y una atracción turística icónica."
+  },
+  {
+    "category": "Medio Ambiente",
+    "question": "¿Cuál es el principal gas responsable del calentamiento global?",
+    "options": ["Dióxido de carbono (CO2)", "Metano (CH4)", "Óxido nitroso (N2O)"],
+    "answer": 0,
+    "explanation": "El dióxido de carbono (CO2) es el principal gas responsable del calentamiento global debido a su capacidad de retener el calor en la atmósfera."
+  },
+  {
+    "category": "Política",
+    "question": "¿Cuál es el sistema de gobierno en Estados Unidos?",
+    "options": ["República democrática", "Monarquía constitucional", "Democracia presidencialista"],
+    "answer": 2,
+    "explanation": "Estados Unidos tiene un sistema de gobierno conocido como democracia presidencialista, en el cual el presidente es elegido por voto popular y tiene poderes ejecutivos significativos."
+  }
+]
+
+
+
+

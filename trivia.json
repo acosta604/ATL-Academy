@@ -1,0 +1,49 @@
+{
+    "preguntas":[
+       {
+          "enunciado":"¿Qué es HTML?",
+          "opciones":[
+             "Lenguaje de marcado de hipertexto",
+             "Lenguaje de programación",
+             "Base de datos",
+             "Sistema operativo"
+          ],
+          "respuesta_correcta":0,
+          "explicacion":"HTML es un lenguaje de marcado de hipertexto."
+       },
+
+       {
+          "enunciado":"¿Qué significa CSS?",
+          "opciones":[
+             "Hoja de estilo en cascada",
+             "Lenguaje de scripting del cliente",
+             "Lenguaje de programación orientado a objetos",
+             "Base de datos relacional"
+          ],
+          "respuesta_correcta":0,
+          "explicacion":"CSS significa Hoja de estilo en cascada."
+       },
+       {
+          "enunciado":"¿Qué es Git?",
+          "opciones":[
+             "Sistema de control de versiones",
+             "Lenguaje de programación",
+             "Motor de base de datos",
+             "Framework de desarrollo web"
+          ],
+          "respuesta_correcta":0,
+          "explicacion":"Git es un sistema de control de versiones."
+       },
+       {
+          "enunciado":"¿Cuál es el concepto principal de la programación orientada a objetos?",
+          "opciones":[
+             "Encapsulación",
+             "Herencia",
+             "Polimorfismo",
+             "Abstracción"
+          ],
+          "respuesta_correcta":3,
+          "explicacion":"La abstracción es el concepto principal de la programación orientada a objetos."
+       }
+    ]
+ }
