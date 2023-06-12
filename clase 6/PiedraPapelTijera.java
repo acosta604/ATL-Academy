@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
 
-import java.util.Random;
-import java.util.Scanner;
 
 public class PiedraPapelTijera {
     private static final String[] OPCIONES = {"piedra", "papel", "tijera"};
