@@ -75,5 +75,11 @@ Después muestra en consola la concatenación de:
 
 📂👩‍💻🔗[Code clase 6](https://github.com/acosta604/ATL-Academy/tree/Clases/clase%206)
 
+## Clase 7 / *Arrays* ✏️
+## Actividades 🧠
+
+
+
+
 
 
