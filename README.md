@@ -12,6 +12,9 @@
 
 [🔗 Link Categories.json](https://raw.githubusercontent.com/acosta604/ATL-Academy/Clase_4/clase%204/categories.json)
 ![Imagen final Trivia](https://i.imgur.com/ijtXNpX.png)
+
+📂👩‍💻🔗[Code clase 4](https://github.com/acosta604/ATL-Academy/tree/Clases/clase%204)
+
  
 ## Clase 5 / *Operadores aritmeticos y de logica* ✏️
 ## Actividades 🧠
@@ -38,6 +41,8 @@ Calcula el monto de la propina utilizando la fórmula: propina = totalCuenta * (
 
 - Juego de adivinar el número:
 Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el número.
+
+📂👩‍💻🔗[Code clase 5](https://github.com/acosta604/ATL-Academy/tree/Clases/clase%205)
 
 ## Clase 6 / *Tipos de datos y bucle While*✏️
 ## Actividades 🧠
@@ -67,4 +72,8 @@ Después muestra en consola la concatenación de:
 - Muestra los números del 1 al 100 utilizando un bucle while.
 
 - Escribe un programa que permita al usuario jugar el juego clásico de "piedra, papel, tijeras" contra la computadora. El programa debe solicitar al usuario que ingrese su elección (piedra, papel o tijeras) y luego generar una elección aleatoria para la computadora. Después de eso, el programa debe determinar el ganador según las reglas del juego y mostrar el resultado.
+
+📂👩‍💻🔗[Code clase 6](https://github.com/acosta604/ATL-Academy/tree/Clases/clase%206)
+
+
 
