@@ -1,4 +1,4 @@
-# Actividades / ATL-Academy Bootcamp JAVA  ![imgjava](https://raw.githubusercontent.com/acosta604/Icons/master/4373217_java_logo_logos_icon.svg?token=GHSAT0AAAAAACDG4L47XSHDOLT44Q2KNZN4ZEGLQPQ)
+# Actividades / ATL-Academy Bootcamp JAVA  ![imgjava](https://raw.githubusercontent.com/acosta604/Icons/master/4373217_java_logo_logos_icon.svg?token=GHSAT0AAAAAACDG4L46C3QAOAGBEVJ3BKBOZEGMEZA)
 
 ## Clase 4 / *Archivos JSON* ✏️
 ### Actividad 🧠
