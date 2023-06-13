@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class MainController {
-    @GetMapping("/prueba/{text}")
+    @GetMapping("/prueba/{texto}")
     public String primeraPrueba(@PathVariable String texto){
 
         String codigoTransformado ="";
@@ -21,14 +21,13 @@ public class MainController {
 
     private static String convertirLetraCodigoMorse( String codigoTransformado, String letraDeTexto) {
 
-        String [] tablaAbc = {"A", "B", "C"};
-        String [] tablaCodigoMorse = {".-", "-...", "-.-."};
-
+        String[] tablaAbc = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"};
+        String[] tablaCodigoMorse = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};
         for(int j = 0; j< tablaAbc.length; j++){
             String letraTablaAbc= tablaAbc[j];
             if(letraTablaAbc.equalsIgnoreCase(letraDeTexto)){
                 String caracterenCodigoMorse= tablaCodigoMorse[j];
-                codigoTransformado += ""+ letraDeTexto;
+                codigoTransformado += "  "+ caracterenCodigoMorse;
             }
 
         }
