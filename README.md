@@ -78,6 +78,35 @@ Después muestra en consola la concatenación de:
 ## Clase 7 / *Arrays* ✏️
 ## Actividades 🧠
 
+- Hacer un programa que permita al usuario ingresar 5 números y mostrarlos.
+
+- Después de realizar el ejercicio anterior, agregar que muestre el número mayor y el número menor.
+
+- Ahora, hay que mostrar el promedio. Para hacer esto se suman todos los números y se divide por 5, ya que el usuario agregó 5 números.
+
+## Clase 8 / *Funciones y primeros pasos en Springboot* ✏️
+## Actividades 🧠
+
+- Hacer una función que calcule el área de un cuadrado. Al llamarla debe devolver el área del cuadrado.
+
+- Hacer una función que calcule el área de un triángulo. Al llamarla debe devolver el área del triángulo.
+
+- Crear una función que sea un generador de contraseñas. Al llamarla debe devolver una contraseña (por ejemplo, puedes utilizar Math.random() para devolver un número aleatorio que podría ser una      contraseña.
+
+- Crea una aplicación en Springboot que permita generar contraseñas (utilizando el código del ejercicio anterior) al llamar a la siguiente ruta:
+localhost:8080/generar-password
+
+- Hacer nuevamente el juego de Piedra, Papel o Tijeras pero utilizando funciones, arreglos y bucles.
+
+
+## Clase 9 / *Ejercicios practicos* ✏️
+## Actividades 🧠
+
+
+## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
+
+
 
 
 
