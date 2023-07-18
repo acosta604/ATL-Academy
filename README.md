@@ -102,6 +102,12 @@ localhost:8080/generar-password
 ## Clase 9 / *Ejercicios practicos* ✏️
 ## Actividades 🧠
 
+- Crea un programa que tenga un arreglo con nombres completos de personas. 
+Además, debe permitir realizar una búsqueda por el nombre de la persona
+- Estamos armando el servicio de autocompletar de Google. 
+Tienes que desarrollar una aplicación en springboot que recibe lo que está escribiendo el usuario, y devuelve un listado de posibles resultados.Para hacer esto en un array de String carga resultados de ejemplo
+- Crea un servicio web en springboot que tenga un arreglo con nombres completos de personas. 
+Debe permitir realizar una búsqueda por el nombre de la persona, agregar personas y también borrarlas
 
 ## Clase 10 / *Introducción a la Proramacion Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
