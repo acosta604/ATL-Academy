@@ -115,8 +115,18 @@ localhost:8080/generar-password
 ## Clase 12 / *Proramacion Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
-
-
+- Ejercicio 1)
+Armar un programa para organizar un "amigo invisible": Este programa debe permitir a los participantes ingresar sus nombres. Luego, cada participante debe sentarse frente a la computadora, escribir su nombre y recibir una indicación sobre a quién debe darle un regalo. El programa también debe limpiar la consola después de que cada participante haya visto su indicación.
+- Ejercicio 2)
+Crear un programa que funcione como una calculadora de cambio: Este programa debe recibir como entrada una cantidad de dinero y el costo de un producto. Utilizando la resta, el programa debe calcular el cambio que se debe entregar al cliente y mostrar la cantidad de billetes y monedas necesarios para el cambio.
+- Ejercicio 3)
+Crear un programa para calcular el interés compuesto: Este programa debe permitir al usuario ingresar el capital inicial, la tasa de interés y el tiempo en años. Utilizando la fórmula del interés compuesto, el programa debe calcular el monto total acumulado y mostrarlo al usuario.
+- Ejercicio 4)
+Crear un programa para ingresar las notas de alumnos utilizando programación orientada a objetos: El programa debe permitir al usuario cargar las notas de varios alumnos. Cada alumno debe tener atributos como nombre, apellido y una lista de notas. 
+- Ejercicio 5)
+Crear un juego de adivinar la palabra: Este juego consiste en mostrar una pista o descripción y permitir al jugador adivinar la palabra correcta. Por ejemplo, el programa podría mostrar el mensaje: "Es un animal muy grande, con trompa. ¿Qué es?" El jugador debe ingresar su respuesta y el programa debe verificar si es correcta o no.
+- Ejercicio 6)
+Armar un programa que funcione como una lista de reproducción de Spotify simple: El programa debe permitir al usuario agregar canciones a una lista de reproducción. Cada canción debe tener atributos como título, artista y duración. El programa debe permitir reproducir las canciones en orden y mostrar la información de la canción que se está reproduciendo en ese momento.
 
 ## Clase 13 / *Ejercicios de POO (Herencia)* ✏️
 ## Actividades 🧠
