@@ -109,7 +109,7 @@ Tienes que desarrollar una aplicación en springboot que recibe lo que está esc
 - Crea un servicio web en springboot que tenga un arreglo con nombres completos de personas. 
 Debe permitir realizar una búsqueda por el nombre de la persona, agregar personas y también borrarlas
 
-## Clase 10 / *Introducción a la Proramacion Orientada a Objetos (POO)* ✏️
+## Clase 10 / *Introducción a la Programación Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 - Ejercicio 1)
@@ -128,7 +128,7 @@ ingresar(cantidad): se ingresa una cantidad a la cuenta, si la cantidad introduc
 retirar(cantidad): se retira una cantidad a la cuenta. La cuenta puede estar en números rojos.
 
 
-## Clase 11 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Clase 11 / *Programación Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 
@@ -158,16 +158,16 @@ Crea una clase base llamada "Figura" con métodos para calcular el área y el pe
 Crea una clase base llamada "Personaje" con atributos como nombre, nivel y puntos de vida. Implementa métodos para que el personaje pueda atacar, recibir daño y curarse. Luego, crea clases derivadas como "Guerrero", "Mago" y "Arquero", que hereden de la clase base y añadan atributos y métodos específicos para cada tipo de personaje. Por ejemplo, la clase "Guerrero" podría tener un atributo adicional para la fuerza de ataque, mientras que la clase "Mago" podría tener un método para lanzar hechizos. Crea instancias de los diferentes personajes y simula un combate entre ellos.
 Puedes añadir más funcionalidades al juego de rol, como habilidades especiales, armas, armaduras, y enemigos con los que los personajes pueden luchar. La idea es que te diviertas creando y personalizando tu propio juego de rol utilizando la herencia y el polimorfismo en la programación orientada a objetos.
 
-## Clase 14 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Clase 14 / *Programación Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 
-## Clase 15 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Clase 15 / *Programación Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 
 
-## Clase 16 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Clase 16 / *Programación Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 
