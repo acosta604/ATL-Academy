@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Gastronomía",
+    "description": "Preguntas relacionadas con alimentos, recetas, cocina."
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con dispositivos electrónicos, desarrollo de software, innovaciones tecnológicas."
+  },
+  {
+    "category": "Moda",
+    "description": "Preguntas relacionadas con tendencias de moda, diseño de prendas, pasarelas, marcas."
+  },
+  {
+    "category": "Viajes",
+    "description": " Preguntas relacionadas con destinos turísticos."
+  },
+  {
+    "category": "Medio Ambiente",
+    "description": "Preguntas relacionadas con la conservación del medio ambiente, cambio climático, energías renovables y temas ecológicos."
+  },
+  {
+    "category": "Política",
+    "description": " Preguntas relacionadas con política nacional e internacional, sistemas de gobierno, líderes políticos."
+  }
+]
+
+
