@@ -108,7 +108,49 @@ localhost:8080/generar-password
 
 
 
+## Clase 11 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
+
+
+## Clase 12 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
 
 
 
+
+## Clase 13 / *Ejercicios de POO* ✏️
+## Actividades 🧠
+
+
+
+## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
+
+
+## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
+
+
+
+## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
+
+
+## Clase 17 / *Actividades de Bases de Datos* ✏️
+## Actividades 🧠
+
+- 1)Desarrollar la estructura de tablas de una galería de fotos: 
+Crea la estructura de tablas necesaria para almacenar y organizar una galería de fotos, considerando los elementos relevantes como las fotos en sí, las categorías a las que pertenecen, las etiquetas asociadas y cualquier otra información necesaria.
+- 2)Diseña la estructura de tablas para un sistema de gestión, enfocándote únicamente en las tablas relacionadas con la gestión de usuarios, roles y permisos. Asegúrate de considerar los campos necesarios para almacenar la información pertinente y establecer las relaciones adecuadas entre las tablas.
+- 3)Crea una estructura de tablas para gestionar las categorías de un menú de una web. Permitiendo que cada categoría pueda tener items y también subcategorías. No hay una restricción en la cantidad de subcategorías permitidas, así que asegúrate de diseñar la estructura de tablas de manera que pueda manejar cualquier cantidad de subcategorías requerida.
+Por ejemplo: <br>
+Programación
+¿Qué es la programación?
+Frontend:
+Javascript
+Backend
+Java
+Python
+- 4)Crea la estructura de tablas para gestionar los clientes de tu sistema de gestión online con sus suscripciones mensuales. Asegúrate de incluir los campos necesarios para almacenar la información del cliente, como nombre, dirección, etc. Además, debes tener tablas que permitan definir los diferentes planes de suscripción y relacionarlos con los clientes, junto con un campo para la fecha de caducidad de cada suscripción.
+- 5)Control de inventario: Diseña una estructura de tablas para controlar el inventario de productos, incluyendo detalles como nombres, descripciones, cantidades disponibles, ubicaciones de almacenamiento, proveedores, precios, fechas de adquisición, etc.
 
