@@ -118,21 +118,26 @@ localhost:8080/generar-password
 
 
 
-## Clase 13 / *Ejercicios de POO* ✏️
+## Clase 13 / *Ejercicios de POO (Herencia)* ✏️
+## Actividades 🧠
+
+- Ejercicio 1)
+Crea una clase base llamada "Figura" con métodos para calcular el área y el perímetro de una figura geométrica genérica. Luego, crea clases derivadas como "Triangulo", "Rectangulo" y "Circulo", que hereden de la clase base y sobreescriban los métodos para calcular el área y el perímetro según su forma específica. Crea instancias de las diferentes figuras y muestra sus áreas y perímetros.
+
+- Ejercicio 2)
+Crea una clase base llamada "Personaje" con atributos como nombre, nivel y puntos de vida. Implementa métodos para que el personaje pueda atacar, recibir daño y curarse. Luego, crea clases derivadas como "Guerrero", "Mago" y "Arquero", que hereden de la clase base y añadan atributos y métodos específicos para cada tipo de personaje. Por ejemplo, la clase "Guerrero" podría tener un atributo adicional para la fuerza de ataque, mientras que la clase "Mago" podría tener un método para lanzar hechizos. Crea instancias de los diferentes personajes y simula un combate entre ellos.
+Puedes añadir más funcionalidades al juego de rol, como habilidades especiales, armas, armaduras, y enemigos con los que los personajes pueden luchar. La idea es que te diviertas creando y personalizando tu propio juego de rol utilizando la herencia y el polimorfismo en la programación orientada a objetos.
+
+## Clase 14 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Actividades 🧠
+
+
+## Clase 15 / *Proramacion Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 
 
-## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
-## Actividades 🧠
-
-
-## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
-## Actividades 🧠
-
-
-
-## Clase 10 / *Proramacion Orientada a Objetos (POO)* ✏️
+## Clase 16 / *Proramacion Orientada a Objetos (POO)* ✏️
 ## Actividades 🧠
 
 
@@ -144,13 +149,14 @@ Crea la estructura de tablas necesaria para almacenar y organizar una galería d
 - 2)Diseña la estructura de tablas para un sistema de gestión, enfocándote únicamente en las tablas relacionadas con la gestión de usuarios, roles y permisos. Asegúrate de considerar los campos necesarios para almacenar la información pertinente y establecer las relaciones adecuadas entre las tablas.
 - 3)Crea una estructura de tablas para gestionar las categorías de un menú de una web. Permitiendo que cada categoría pueda tener items y también subcategorías. No hay una restricción en la cantidad de subcategorías permitidas, así que asegúrate de diseñar la estructura de tablas de manera que pueda manejar cualquier cantidad de subcategorías requerida.
 Por ejemplo: <br>
-Programación
-¿Qué es la programación?
-Frontend:
-Javascript
-Backend
-Java
-Python
+- [Programación](#programación)
+  - [¿Qué es la programación?](#qué-es-la-programación)
+- [Frontend](#frontend)
+  - [Javascript](#javascript)
+- [Backend](#backend)
+  - [Java](#java)
+  - [Python](#python)
+  
 - 4)Crea la estructura de tablas para gestionar los clientes de tu sistema de gestión online con sus suscripciones mensuales. Asegúrate de incluir los campos necesarios para almacenar la información del cliente, como nombre, dirección, etc. Además, debes tener tablas que permitan definir los diferentes planes de suscripción y relacionarlos con los clientes, junto con un campo para la fecha de caducidad de cada suscripción.
 - 5)Control de inventario: Diseña una estructura de tablas para controlar el inventario de productos, incluyendo detalles como nombres, descripciones, cantidades disponibles, ubicaciones de almacenamiento, proveedores, precios, fechas de adquisición, etc.
 
